@@ -1,0 +1,12 @@
+C:\Source\Repos\InjecaoDependencia.WebApi\src\InjecaoDependencia.Model\bin\Debug\net6.0\InjecaoDependencia.Model.deps.json
+C:\Source\Repos\InjecaoDependencia.WebApi\src\InjecaoDependencia.Model\bin\Debug\net6.0\InjecaoDependencia.Model.dll
+C:\Source\Repos\InjecaoDependencia.WebApi\src\InjecaoDependencia.Model\bin\Debug\net6.0\InjecaoDependencia.Model.pdb
+C:\Source\Repos\InjecaoDependencia.WebApi\src\InjecaoDependencia.Model\obj\Debug\net6.0\InjecaoDependencia.Model.csproj.AssemblyReference.cache
+C:\Source\Repos\InjecaoDependencia.WebApi\src\InjecaoDependencia.Model\obj\Debug\net6.0\InjecaoDependencia.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Repos\InjecaoDependencia.WebApi\src\InjecaoDependencia.Model\obj\Debug\net6.0\InjecaoDependencia.Model.AssemblyInfoInputs.cache
+C:\Source\Repos\InjecaoDependencia.WebApi\src\InjecaoDependencia.Model\obj\Debug\net6.0\InjecaoDependencia.Model.AssemblyInfo.cs
+C:\Source\Repos\InjecaoDependencia.WebApi\src\InjecaoDependencia.Model\obj\Debug\net6.0\InjecaoDependencia.Model.csproj.CoreCompileInputs.cache
+C:\Source\Repos\InjecaoDependencia.WebApi\src\InjecaoDependencia.Model\obj\Debug\net6.0\InjecaoDependencia.Model.dll
+C:\Source\Repos\InjecaoDependencia.WebApi\src\InjecaoDependencia.Model\obj\Debug\net6.0\refint\InjecaoDependencia.Model.dll
+C:\Source\Repos\InjecaoDependencia.WebApi\src\InjecaoDependencia.Model\obj\Debug\net6.0\InjecaoDependencia.Model.pdb
+C:\Source\Repos\InjecaoDependencia.WebApi\src\InjecaoDependencia.Model\obj\Debug\net6.0\ref\InjecaoDependencia.Model.dll

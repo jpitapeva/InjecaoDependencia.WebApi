@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "InjecaoDependencia.Model/1.0.0": {
+        "runtime": {
+          "InjecaoDependencia.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InjecaoDependencia.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

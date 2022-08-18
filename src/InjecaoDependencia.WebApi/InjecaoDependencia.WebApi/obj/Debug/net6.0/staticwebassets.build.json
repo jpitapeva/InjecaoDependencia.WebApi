@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Vb9kbZxDC6570ppmEngadpoQZmX4BQos7BxL6C+kUQg=",
+  "Source": "InjecaoDependencia.WebApi",
+  "BasePath": "_content/InjecaoDependencia.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
