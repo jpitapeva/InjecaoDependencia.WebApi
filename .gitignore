@@ -2,6 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+.vs
 /.vs/InjecaoDependencia.WebApi/config
 /src/InjecaoDependencia.WebApi/bin/Debug/net6.0/InjecaoDependencia.WebApi.dll
 /src/InjecaoDependencia.WebApi/bin/Debug/net6.0/InjecaoDependencia.WebApi.exe
