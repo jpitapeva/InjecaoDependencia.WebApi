@@ -9,8 +9,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\InjecaoDependencia.Application\InjecaoDependencia.Application.csproj" />
-    <ProjectReference Include="..\..\InjecaoDependencia.Model\InjecaoDependencia.Model.csproj" />
     <ProjectReference Include="..\InjecaoDependencia.Application\InjecaoDependencia.Application.csproj" />
     <ProjectReference Include="..\InjecaoDependencia.Model\InjecaoDependencia.Model.csproj" />
   </ItemGroup>

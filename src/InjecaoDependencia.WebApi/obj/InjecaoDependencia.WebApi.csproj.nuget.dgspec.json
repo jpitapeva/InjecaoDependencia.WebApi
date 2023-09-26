@@ -1,0 +1,256 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Source\\Repos\\InjecaoDependencia\\InjecaoDependencia.WebApi\\src\\InjecaoDependencia.WebApi\\InjecaoDependencia.WebApi.csproj": {}
+  },
+  "projects": {
+    "D:\\Source\\Repos\\InjecaoDependencia\\InjecaoDependencia.WebApi\\src\\InjecaoDependencia.Application\\InjecaoDependencia.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Source\\Repos\\InjecaoDependencia\\InjecaoDependencia.WebApi\\src\\InjecaoDependencia.Application\\InjecaoDependencia.Application.csproj",
+        "projectName": "InjecaoDependencia.Application",
+        "projectPath": "D:\\Source\\Repos\\InjecaoDependencia\\InjecaoDependencia.WebApi\\src\\InjecaoDependencia.Application\\InjecaoDependencia.Application.csproj",
+        "packagesPath": "C:\\Users\\jpita\\.nuget\\packages\\",
+        "outputPath": "D:\\Source\\Repos\\InjecaoDependencia\\InjecaoDependencia.WebApi\\src\\InjecaoDependencia.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jpita\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.22, 6.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.22, 6.0.22]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.22, 6.0.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Source\\Repos\\InjecaoDependencia\\InjecaoDependencia.WebApi\\src\\InjecaoDependencia.Model\\InjecaoDependencia.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Source\\Repos\\InjecaoDependencia\\InjecaoDependencia.WebApi\\src\\InjecaoDependencia.Model\\InjecaoDependencia.Model.csproj",
+        "projectName": "InjecaoDependencia.Model",
+        "projectPath": "D:\\Source\\Repos\\InjecaoDependencia\\InjecaoDependencia.WebApi\\src\\InjecaoDependencia.Model\\InjecaoDependencia.Model.csproj",
+        "packagesPath": "C:\\Users\\jpita\\.nuget\\packages\\",
+        "outputPath": "D:\\Source\\Repos\\InjecaoDependencia\\InjecaoDependencia.WebApi\\src\\InjecaoDependencia.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jpita\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.22, 6.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.22, 6.0.22]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.22, 6.0.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Source\\Repos\\InjecaoDependencia\\InjecaoDependencia.WebApi\\src\\InjecaoDependencia.WebApi\\InjecaoDependencia.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Source\\Repos\\InjecaoDependencia\\InjecaoDependencia.WebApi\\src\\InjecaoDependencia.WebApi\\InjecaoDependencia.WebApi.csproj",
+        "projectName": "InjecaoDependencia.WebApi",
+        "projectPath": "D:\\Source\\Repos\\InjecaoDependencia\\InjecaoDependencia.WebApi\\src\\InjecaoDependencia.WebApi\\InjecaoDependencia.WebApi.csproj",
+        "packagesPath": "C:\\Users\\jpita\\.nuget\\packages\\",
+        "outputPath": "D:\\Source\\Repos\\InjecaoDependencia\\InjecaoDependencia.WebApi\\src\\InjecaoDependencia.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jpita\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Source\\Repos\\InjecaoDependencia\\InjecaoDependencia.WebApi\\src\\InjecaoDependencia.Application\\InjecaoDependencia.Application.csproj": {
+                "projectPath": "D:\\Source\\Repos\\InjecaoDependencia\\InjecaoDependencia.WebApi\\src\\InjecaoDependencia.Application\\InjecaoDependencia.Application.csproj"
+              },
+              "D:\\Source\\Repos\\InjecaoDependencia\\InjecaoDependencia.WebApi\\src\\InjecaoDependencia.Model\\InjecaoDependencia.Model.csproj": {
+                "projectPath": "D:\\Source\\Repos\\InjecaoDependencia\\InjecaoDependencia.WebApi\\src\\InjecaoDependencia.Model\\InjecaoDependencia.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.22, 6.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.22, 6.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.22, 6.0.22]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.22, 6.0.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
