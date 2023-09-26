@@ -22,6 +22,7 @@ x64/
 #build/
 Bin/
 bin/
+*bin/
 Obj/
 obj/
 **/bin
@@ -120,6 +121,7 @@ AppPackages/
 
 # Others
 *.Cache
+*.cache
 ClientBin/
 [Ss]tyle[Cc]op.*
 ~$*
@@ -200,6 +202,8 @@ Icon?
 
 # Visual Studio temp something
 .vs/
+.vs/*
+.vs*
 
 # dotnet stuff
 project.lock.json
@@ -247,3 +251,8 @@ AppPackages/
 /src/InjecaoDependencia.WebApi/bin/Debug/net6.0/InjecaoDependencia.Model.dll
 /src/InjecaoDependencia.WebApi/bin/Debug/net6.0/InjecaoDependencia.Model.pdb
 /src/InjecaoDependencia.WebApi/obj/Debug/net6.0/InjecaoDependencia.WebApi.csproj.AssemblyReference.cache
+/src/InjecaoDependencia.Application/obj/Debug/net6.0/InjecaoDependencia.Application.assets.cache
+/.vs/InjecaoDependencia.WebApi/DesignTimeBuild/.dtbcache.v2
+/.vs/ProjectEvaluation/injecaodependencia.webapi.metadata.v7.bin
+/.vs/ProjectEvaluation/injecaodependencia.webapi.projects.v7.bin
+/.vs/InjecaoDependencia.WebApi/v17/.futdcache.v2
