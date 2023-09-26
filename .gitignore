@@ -248,3 +248,4 @@ AppPackages/
 /src/InjecaoDependencia.WebApi/bin/Debug/net6.0/InjecaoDependencia.Model.dll
 /src/InjecaoDependencia.WebApi/bin/Debug/net6.0/InjecaoDependencia.Model.pdb
 /src/InjecaoDependencia.WebApi/obj/Debug/net6.0/InjecaoDependencia.WebApi.csproj.AssemblyReference.cache
+/src/InjecaoDependencia.Application/obj/Debug/net6.0/InjecaoDependencia.Application.assets.cache
