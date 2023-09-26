@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "WhXflkmQ3MY1P8y+bDuHrsjtrXni2msT2afZkNiuG+E77l7QILWjLUFySN3GtGPUwL4giO33yP3hR1/fs6cZVg==",
+  "dgSpecHash": "Z2UR6hzs3nXs5AWwneyy6qsAN+FBGJ4asZhkTGTBqyqoHASLE9/92gwtRQZA++WGVhjQOU9pvlrKMDn7LZLxHw==",
   "success": true,
-  "projectFilePath": "C:\\Source\\Repos\\InjecaoDependencia.WebApi\\src\\InjecaoDependencia.Model\\InjecaoDependencia.Model.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Source\\Repos\\InjecaoDependencia\\InjecaoDependencia.WebApi\\src\\InjecaoDependencia.Model\\InjecaoDependencia.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpita\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\jpita\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\jpita\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
   "logs": []
 }

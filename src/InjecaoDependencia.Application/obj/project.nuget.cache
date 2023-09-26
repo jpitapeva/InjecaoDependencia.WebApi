@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "K6TqOaXySKFNMzxW4p9PSiuzP6pbjhczygjwmyY9t072ukL1Ff+yn8sthlt2tSIxziCAjTKq+oh336ptg/QzSg==",
+  "dgSpecHash": "Kxlb65F6D1zLw4iyDWiNqrPm45paXIbpv4FsV7bbi2GEryl3iG2yMw/y/QfTEkhgh8seCNVxqBrCBmJaSLq2Gg==",
   "success": true,
-  "projectFilePath": "C:\\Source\\Repos\\InjecaoDependencia.WebApi\\src\\InjecaoDependencia.Application\\InjecaoDependencia.Application.csproj",
+  "projectFilePath": "D:\\Source\\Repos\\InjecaoDependencia\\InjecaoDependencia.WebApi\\src\\InjecaoDependencia.Application\\InjecaoDependencia.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\joaopma\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "C:\\Users\\jpita\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\jpita\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\jpita\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\jpita\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
   ],
   "logs": []
 }
