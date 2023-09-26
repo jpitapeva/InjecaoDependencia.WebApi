@@ -229,3 +229,21 @@ AppPackages/
 #####
 # End of core ignore list, below put you custom 'per project' settings (patterns or path)
 #####
+/src/InjecaoDependencia.WebApi/bin/Debug/net6.0/InjecaoDependencia.Application.dll
+/src/InjecaoDependencia.Application/bin/Debug/net6.0/InjecaoDependencia.Application.pdb
+/src/InjecaoDependencia.Application/obj/Debug/net6.0/ref/InjecaoDependencia.Application.dll
+/src/InjecaoDependencia.Application/obj/Debug/net6.0/refint/InjecaoDependencia.Application.dll
+/src/InjecaoDependencia.Application/obj/Debug/net6.0/InjecaoDependencia.Application.dll
+/src/InjecaoDependencia.Application/obj/Debug/net6.0/InjecaoDependencia.Application.pdb
+/src/InjecaoDependencia.Application/obj/Debug/net6.0/InjecaoDependencia.Application.sourcelink.json
+/src/InjecaoDependencia.Model/bin/Debug/net6.0/InjecaoDependencia.Model.dll
+/src/InjecaoDependencia.Model/bin/Debug/net6.0/InjecaoDependencia.Model.pdb
+/src/InjecaoDependencia.Model/obj/Debug/net6.0/ref/InjecaoDependencia.Model.dll
+/src/InjecaoDependencia.Model/obj/Debug/net6.0/refint/InjecaoDependencia.Model.dll
+/src/InjecaoDependencia.Model/obj/Debug/net6.0/InjecaoDependencia.Model.dll
+/src/InjecaoDependencia.Model/obj/Debug/net6.0/InjecaoDependencia.Model.pdb
+/src/InjecaoDependencia.Model/obj/Debug/net6.0/InjecaoDependencia.Model.sourcelink.json
+/src/InjecaoDependencia.WebApi/bin/Debug/net6.0/InjecaoDependencia.Application.pdb
+/src/InjecaoDependencia.WebApi/bin/Debug/net6.0/InjecaoDependencia.Model.dll
+/src/InjecaoDependencia.WebApi/bin/Debug/net6.0/InjecaoDependencia.Model.pdb
+/src/InjecaoDependencia.WebApi/obj/Debug/net6.0/InjecaoDependencia.WebApi.csproj.AssemblyReference.cache
