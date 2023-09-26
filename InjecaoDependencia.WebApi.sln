@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjecaoDependencia.WebApi", "InjecaoDependencia.WebApi\InjecaoDependencia.WebApi.csproj", "{4B250626-D1FC-4198-B4FF-18E402AA4C3D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjecaoDependencia.WebApi", "src\InjecaoDependencia.WebApi\InjecaoDependencia.WebApi\InjecaoDependencia.WebApi.csproj", "{4B250626-D1FC-4198-B4FF-18E402AA4C3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjecaoDependencia.Model", "..\InjecaoDependencia.Model\InjecaoDependencia.Model.csproj", "{8C0929E8-A5AD-4281-A48A-55DA6B67F50E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjecaoDependencia.Model", "src\InjecaoDependencia.Model\InjecaoDependencia.Model.csproj", "{8C0929E8-A5AD-4281-A48A-55DA6B67F50E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjecaoDependencia.Application", "..\InjecaoDependencia.Application\InjecaoDependencia.Application.csproj", "{B0256075-767E-4B2E-981D-3B949D98EA61}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjecaoDependencia.Application", "src\InjecaoDependencia.Application\InjecaoDependencia.Application.csproj", "{B0256075-767E-4B2E-981D-3B949D98EA61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
