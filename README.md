@@ -8,3 +8,9 @@
 
 <h5>Transient: Uma única instância por solicitação de código, os componentes são criados toda vez que são solicitados e nunca são compartilhados.
 
+
+---
+
+<h5>AOT: Para testes com Dotnet8, usar a branch dotnet-8-aot
+
+<h5>Documentação MS: https://learn.microsoft.com/en-us/dotnet/core/deploying/native-aot/?tabs=net8plus%2Cwindows
